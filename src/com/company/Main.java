@@ -7,8 +7,8 @@ public class Main {
 Scanner sc = new Scanner(System.in, "ISO-8859-2");
         System.out.println("Zadejte èíslo k umocnìní.");
         //int a = Integer.parseInt(sc.nextLine()); wwwwwwww1
-        int a = sc.nextInt();
-        int b = a * a;
+        float a = sc.nextFloat();
+        float b = a * a;
         System.out.println("Èíslo je " + b);
         //test update nn
     }

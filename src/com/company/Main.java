@@ -10,6 +10,6 @@ Scanner sc = new Scanner(System.in, "ISO-8859-2");
         int a = sc.nextInt();
         int b = a * a;
         System.out.println("»Ìslo je " + b);
-
+        //test update nn
     }
 }

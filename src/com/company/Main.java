@@ -6,7 +6,7 @@ public class Main {
         // write your code here
         Scanner sc = new Scanner(System.in, "ISO-8859-2");
         System.out.println("Zadejte èíslo násobilky.");
-
+        /*
         //for (int j = 1;j <= 10; j++)
         int j = sc.nextInt();
         {
@@ -16,5 +16,8 @@ public class Main {
         }
         System.out.println("Dìkuji za zadání");
         //test update nn
+        */
+        for (int a = 1; a <= 10; a++)
+            System.out.printf("%d ", a);
     }
 }
